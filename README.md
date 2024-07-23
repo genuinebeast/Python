@@ -1,8 +1,8 @@
 ## PYTHON NOTES
 
 
-This Repository contains consise notes of Python.
-It's my go to notes if i wonna revise the concepts.
-contains Basic Python syntax and OOPs.
+This Repository contains concise notes on Python.
+It's my go-to notes if I want to revise the concepts.
+This contains Basic Python syntax and OOPs.
 
-will be updating regularly with more notes from video lectures and stuffs.
+I will be updating it regularly with more notes from video lectures.
